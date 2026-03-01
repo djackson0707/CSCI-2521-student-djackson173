@@ -1,7 +1,7 @@
 /**
  * @file Lab5_djackson.cpp
  * @author Darius Jackson
- * @date 2026-02-19
+ * @date 2026-02-20
  * @brief A modular program to generate a multiplication table using functions.
  */
 
